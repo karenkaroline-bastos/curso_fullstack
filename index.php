@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Introdução Backend</title>
+    <title>Curso FullStack</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -47,15 +47,15 @@
     </style>
 </head>
 <body>
-    <h1>Introdução à Programação Backend</h1>
+    <h1>Curso FullStack</h1>
     <br/>   
     <h2>Aula 08</h2>
     <ul>
         <li>
-            <a href="/aula-08/index.php">Ir para o calcular idade</a>
+            <a href="/aula-08_19-10/index.php">Ir para o calcular idade</a>
         </li>
         <li>
-            <a href="/aula-08/formulario.php">Ir para o Formulário</a>
+            <a href="/aula-08_19-10/formulario.php">Ir para o Formulário</a>
         </li>
     </ul>
     <br/>
@@ -63,35 +63,35 @@
     <h2>Aula 09</h2>
     <ul>
         <li>
-            <a href="/aula-09/anagrama.php">Ir para Anagrama</a>
+            <a href="/aula-09_26-10/anagrama.php">Ir para Anagrama</a>
         </li>
         <li>
-            <a href="/aula-09/calculadora.php">Ir para Calculadora</a>
+            <a href="/aula-09_26-10/calculadora.php">Ir para Calculadora</a>
         </li>
         <li>
-            <a href="/aula-09/conexao.php">Ir para Conexão</a>
+            <a href="/aula-09_26-10/conexao.php">Ir para Conexão</a>
         </li>
         <li>
-            <a href="/aula-09/polindromo.php">Ir para Polindromo</a>
+            <a href="/aula-09_26-10/polindromo.php">Ir para Polindromo</a>
         </li>
     </ul>
 
     <h3>Laços de Repetição</h3>
     <ul>
         <li>
-            <a href="/aula-09/for.php">For</a>
+            <a href="/aula-09_26-10/for.php">For</a>
         </li>
         <li>
-            <a href="/aula-09/while.php">While</a>
+            <a href="/aula-09_26-10/while.php">While</a>
         </li>
         <li>
-            <a href="/aula-09/dowhile.php">Do While - FOR</a>
+            <a href="/aula-09_26-10/dowhile.php">Do While - FOR</a>
         </li>
         <li>
-            <a href="/aula-09/foarech.php">Foreach</a>
+            <a href="/aula-09_26-10/foarech.php">Foreach</a>
         </li>
         <li>
-            <a href="/aula-09/tabela.php">Tabela</a>
+            <a href="/aula-09_26-10/tabela.php">Tabela</a>
         </li>
     </ul>
 
